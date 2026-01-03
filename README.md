@@ -13,7 +13,7 @@ This repository documents hands-on practice aligned with an Information Technolo
 - Security Best Practices
 
 ## Environment
-- Windows 10 / Windows Server
+- Windows 11 / Windows Server
 - VirtualBox
 - Kali Linux
 - Active Directory Domain Services
