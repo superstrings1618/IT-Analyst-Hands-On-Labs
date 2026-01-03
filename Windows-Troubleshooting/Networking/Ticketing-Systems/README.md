@@ -1,0 +1,1 @@
+“This folder demonstrates simulated help desk and ticketing workflows, including ticket creation, prioritization, documentation, escalation awareness, and resolution. The goal is to practice ITSM-aligned support processes used in enterprise and government environments.”
