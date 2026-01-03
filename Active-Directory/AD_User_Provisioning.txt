@@ -1,0 +1,19 @@
+## Scenario
+New employee onboarding for a small organization.
+
+## Environment
+- Windows Server 2022
+- Active Directory Domain Services
+- 1 Domain Controller
+- 10 test users
+
+## Tasks Performed
+- Created user accounts
+- Assigned users to security groups
+- Enforced password policy
+- Tested login access
+
+## Skills Demonstrated
+- Active Directory user management
+- Principle of least privilege
+- Documentation and verification
