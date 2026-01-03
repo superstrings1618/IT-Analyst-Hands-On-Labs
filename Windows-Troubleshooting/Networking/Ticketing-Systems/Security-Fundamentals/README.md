@@ -1,0 +1,1 @@
+“This folder contains security-focused labs and notes covering least privilege, account security, password policies, MFA concepts, and user security awareness. All activities emphasize safe practices and documentation aligned with cybersecurity fundamentals.”
