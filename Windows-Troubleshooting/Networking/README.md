@@ -1,0 +1,1 @@
+“This folder documents hands-on networking labs covering IP addressing, DNS, DHCP, VPN concepts, and basic network troubleshooting using virtual environments. The focus is on understanding connectivity issues, verifying configurations, and documenting findings clearly.”
