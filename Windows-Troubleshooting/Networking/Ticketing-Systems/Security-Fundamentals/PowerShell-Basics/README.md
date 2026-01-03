@@ -1,0 +1,1 @@
+“This folder includes basic PowerShell exercises used to automate simple administrative tasks such as user management, system checks, and information gathering. The focus is on learning safe, readable scripting to improve efficiency in IT support roles.”
