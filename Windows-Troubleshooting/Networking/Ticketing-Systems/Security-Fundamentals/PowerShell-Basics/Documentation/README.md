@@ -1,0 +1,1 @@
+“This folder showcases IT documentation examples, including standard operating procedures, troubleshooting notes, and support summaries. The purpose is to demonstrate clear, professional documentation practices commonly required in IT analyst and help desk roles.”
