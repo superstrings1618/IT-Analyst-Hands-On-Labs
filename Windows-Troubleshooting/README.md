@@ -1,0 +1,1 @@
+“This folder contains documented Windows troubleshooting scenarios, including disk space issues, service failures, startup problems, and system performance analysis. Each lab follows a structured troubleshooting methodology and includes tools used, resolution steps, and verification to simulate real IT support work.”
