@@ -1,0 +1,16 @@
+## Issue
+User reports system slow and low disk space.
+
+## Troubleshooting Steps
+1. Verified disk usage
+2. Identified large VHDX file
+3. Cleaned temp files
+4. Verified system stability
+
+## Tools Used
+- Disk Management
+- Event Viewer
+- Command Prompt
+
+## Resolution
+Issue resolved and documented.
